@@ -1,6 +1,6 @@
 # Frontend interview task - TODO list
 
-Create a TODO list application supporting simple CRUD (Create, Read, Update, Delete) operations. Each user should be able to see their list after launching the application (or start with an empty one after running the app for the first time). To reach this goal, you can use localStorage for storing information. Design is not provided, as we count on your creativity.
+Create a TODO list application supporting simple CRUD (Create, Read, Update, Delete) operations. Each user should be able to see their list after launching the application (or start with an empty one after running the app for the first time). To reach this goal, you can use localStorage or simple API for storing information. Design is not provided, as we count on your creativity.
 
 ### Functional part
 
